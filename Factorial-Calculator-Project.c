@@ -6,7 +6,6 @@
 int main()
 
 {
-	//Girilen sayýnýn faktöriyelini while ile bulan kod.
 
 	int sayi;
 	unsigned long long int faktoriyel_sonucu=1;
